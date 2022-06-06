@@ -12,7 +12,7 @@
     - [Create Heroku Application](https://github.com/ogty/fastapi-deploying-heroku-template#Create-Heroku-Application)
     - [Using Make Comamnd](https://github.com/ogty/fastapi-deploying-heroku-template#Using-Make-Command)
 - [Using Environmental Variables](https://github.com/ogty/fastapi-deploying-heroku-template#Using Environmental-Variables)
-    - [Create `.env` File](https://github.com/ogty/fastapi-deploying-heroku-template#Create-`.env`-File)
+    - [Create `.env` File](https://github.com/ogty/fastapi-deploying-heroku-template#Create-env-File)
     - [Install Package](https://github.com/ogty/fastapi-deploying-heroku-template#Install-Package)
     - [Editing File](https://github.com/ogty/fastapi-deploying-heroku-template#Editing-File)
 
