@@ -30,13 +30,13 @@
 ## Install Packages
 
 ```zsh
-$ pip3 install -r requirements.txt
+$ pip3 install -r requirements.txt # or make install
 ```
 
 ## Run
 
 ```zsh
-$ uvicorn main:app --reload
+$ uvicorn main:app --reload # or make run
 ```
 
 ---
