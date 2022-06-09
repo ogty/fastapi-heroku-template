@@ -135,7 +135,7 @@ VARIABLE_NAME = os.getenv("VARIABLE_NAME")
 ```diff Makefile
 commit:
 	git add . && \
-+ 	git rm --cached -r .env && \
++ 	git rm --cached -r .gitignore && \
 	git commit -m "$(message)" && \
 	heroku git:remote -a $(app_name) && \
 	git push heroku master
