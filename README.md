@@ -1,4 +1,4 @@
-# Template for Deploying FastAPI to Heroku
+<h1 align="center">Template for Deploying FastAPI to Heroku</h1>
 
 ## Table of Contents
 
@@ -105,7 +105,7 @@ $ make message="first commit" # or make commit
 ### Create `.env` File
 
 ```.env
-VARIABLE_NAME=***************
+VARIABLE_NAME='***************'
 ```
 
 ### Install Package
